@@ -1,0 +1,47 @@
+/* Themify Customize Styling */
+h1 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h2 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h3 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+h1 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h2 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+h1 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h2 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h3 {		font-weight:normal;
+ 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+h1 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h2 {	
+	font-family: "Kaushan Script";	font-weight:normal;
+ 
+}
+h3 {		font-weight:normal;
+ 
+}
+ }
