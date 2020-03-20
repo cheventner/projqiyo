@@ -51,7 +51,7 @@
 	<version name="themify-store-locator" promo_name="store-locator" free="true" wp_hosted="true" type="plugin">1.0.6</version>
 	<version name="themify-wc-product-filter" promo_name="themify-product-filter" free="true" wp_hosted="true" type="plugin">1.2.5</version>
 	<version name="themify-popup" promo_name="popup" free="true" wp_hosted="true" type="plugin">1.1.8</version>
-	<version name="themify-audio-dock" promo_name="audio-dock" free="true" wp_hosted="true" type="plugin">1.0.5</version>
+	<version name="themify-audio-dock" promo_name="audio-dock" free="true" wp_hosted="true" type="plugin">1.0.6</version>
 	<version name="shopify-buybuttonwp" promo_name="shopify-buy-button" type="plugin" free="true">1.0.3</version>
 	<version name="woocommerce-shopdock" promo_name="woocommerce-shopdock" type="plugin">1.1.6</version>
 	<version name="themify-shortcodes" promo_name="" free="true" wp_hosted="true" type="plugin">1.1.2</version>
