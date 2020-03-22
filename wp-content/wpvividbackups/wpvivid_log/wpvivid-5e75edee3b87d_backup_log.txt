@@ -1,0 +1,82 @@
+Log created: 2020-03-21 10:35:26
+Type: backup
+[2020-03-21 10:35:27][notice]Start backing up.
+[2020-03-21 10:35:27][notice]server info fcgi:Off max execution time: 900 wp version:5.3.2 php version:7.4.2 db version:5.7.26 php ini:safe_mode: memory_limit:256M memory_get_usage:57,93 MB memory_get_peak_usage:58,62 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-03-21 10:35:27][notice]Prepare to backup backup_db files.
+[2020-03-21 10:35:27][notice]Start exporting database.
+[2020-03-21 10:35:27][notice]max_allowed_packet less than 32M :4,00 MB
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_actionscheduler_actions
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_actionscheduler_claims
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_actionscheduler_groups
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_actionscheduler_logs
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_commentmeta
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_comments
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_duplicator_packages
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_links
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_options
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_postmeta
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_posts
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_simply_static_pages
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_term_relationships
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_term_taxonomy
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_termmeta
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_terms
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_usermeta
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_users
+[2020-03-21 10:35:27][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2020-03-21 10:35:27][notice]Exporting database finished.
+[2020-03-21 10:35:27][notice]Start compressing backup_db
+[2020-03-21 10:35:27][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_db.zip
+[2020-03-21 10:35:27][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_db.zip, filesize: 6,24 MB
+[2020-03-21 10:35:27][notice]Compressing backup_db completed
+[2020-03-21 10:35:27][notice]Backing up backup_db completed.
+[2020-03-21 10:35:27][notice]Prepare to backup backup_themes files.
+[2020-03-21 10:35:27][notice]File number: 1467
+[2020-03-21 10:35:27][notice]Start compressing backup_themes
+[2020-03-21 10:35:28][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_themes.zip
+[2020-03-21 10:35:28][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_themes.zip, filesize: 19,54 MB
+[2020-03-21 10:35:28][notice]Compressing backup_themes completed
+[2020-03-21 10:35:28][notice]Backing up backup_themes completed.
+[2020-03-21 10:35:28][notice]Prepare to backup backup_plugin files.
+[2020-03-21 10:35:28][notice]File number: 2381
+[2020-03-21 10:35:28][notice]Start compressing backup_plugin
+[2020-03-21 10:35:29][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_plugin.zip
+[2020-03-21 10:35:30][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_plugin.zip, filesize: 37,63 MB
+[2020-03-21 10:35:30][notice]Compressing backup_plugin completed
+[2020-03-21 10:35:30][notice]Backing up backup_plugin completed.
+[2020-03-21 10:35:30][notice]Prepare to backup backup_uploads files.
+[2020-03-21 10:35:30][notice]File number: 112
+[2020-03-21 10:35:30][notice]Start compressing backup_uploads
+[2020-03-21 10:35:30][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_uploads.zip
+[2020-03-21 10:35:30][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_uploads.zip, filesize: 5,21 MB
+[2020-03-21 10:35:30][notice]Compressing backup_uploads completed
+[2020-03-21 10:35:30][notice]Backing up backup_uploads completed.
+[2020-03-21 10:35:30][notice]Prepare to backup backup_content files.
+[2020-03-21 10:35:30][notice]File number: 37
+[2020-03-21 10:35:30][notice]Start compressing backup_content
+[2020-03-21 10:35:30][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_content.zip
+[2020-03-21 10:35:30][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_content.zip, filesize: 2,82 MB
+[2020-03-21 10:35:30][notice]Compressing backup_content completed
+[2020-03-21 10:35:30][notice]Backing up backup_content completed.
+[2020-03-21 10:35:30][notice]Prepare to backup backup_core files.
+[2020-03-21 10:35:30][notice]File number: 1652
+[2020-03-21 10:35:30][notice]Start compressing backup_core
+[2020-03-21 10:35:31][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_core.zip
+[2020-03-21 10:35:32][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_core.zip, filesize: 38,15 MB
+[2020-03-21 10:35:32][notice]Compressing backup_core completed
+[2020-03-21 10:35:32][notice]Backing up backup_core completed.
+[2020-03-21 10:35:32][notice]Prepare to backup backup_merge files.
+[2020-03-21 10:35:32][notice]File number: 6
+[2020-03-21 10:35:32][notice]Start compressing backup_merge
+[2020-03-21 10:35:32][notice]Prepare to zip files. file: localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_all.zip
+[2020-03-21 10:35:38][notice]Adding zip files completed.localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_all.zip, filesize: 46,99 MB
+[2020-03-21 10:35:38][notice]Cleaned up file, filename: /Applications/MAMP/htdocs/projqiyo/wp-content/wpvividbackups/localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_core.zip
+[2020-03-21 10:35:38][notice]Cleaned up file, filename: /Applications/MAMP/htdocs/projqiyo/wp-content/wpvividbackups/localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_plugin.zip
+[2020-03-21 10:35:38][notice]Cleaned up file, filename: /Applications/MAMP/htdocs/projqiyo/wp-content/wpvividbackups/localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_themes.zip
+[2020-03-21 10:35:38][notice]Cleaned up file, filename: /Applications/MAMP/htdocs/projqiyo/wp-content/wpvividbackups/localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_db.zip
+[2020-03-21 10:35:38][notice]Cleaned up file, filename: /Applications/MAMP/htdocs/projqiyo/wp-content/wpvividbackups/localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_uploads.zip
+[2020-03-21 10:35:38][notice]Cleaned up file, filename: /Applications/MAMP/htdocs/projqiyo/wp-content/wpvividbackups/localhost_projqiyo_wpvivid-5e75edee3b87d_2020-03-21-10-35_backup_content.zip
+[2020-03-21 10:35:38][notice]Compressing backup_merge completed
+[2020-03-21 10:35:38][notice]Backing up backup_merge completed.
+[2020-03-21 10:35:38][notice]Backup completed.
+[2020-03-21 10:35:38][notice]Backup succeeded.
