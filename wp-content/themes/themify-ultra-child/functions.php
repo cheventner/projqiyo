@@ -14,9 +14,5 @@ if ( !function_exists( 'chld_thm_cfg_locale_css' ) ):
 endif;
 add_filter( 'locale_stylesheet_uri', 'chld_thm_cfg_locale_css' );
 
-add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
-function theme_enqueue_styles() {
-    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
-}
 
 // END ENQUEUE PARENT ACTION
