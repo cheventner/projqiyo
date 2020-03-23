@@ -104,7 +104,7 @@
 	<version name="wumblr" promo_name="wumblr" type="theme">2.6.3</version>
 	<version name="bizco" promo_name="bizco" type="theme">2.5.8</version>
 	<version name="thememin" promo_name="thememin" type="theme">2.7.2</version>
-	<version name="themify-beta" promo_name="" free="true" type="theme">1.4.3</version>
+	<version name="themify-beta" promo_name="" free="true" type="theme">1.4.4</version>
 
 	<version name="themify" promo_name="" free="true" type="theme">4.8.2</version>
 </versions>
